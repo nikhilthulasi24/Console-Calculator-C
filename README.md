@@ -21,6 +21,4 @@ The program demonstrates the use of:
 ---
 
 ## 📂 Project Structure
-Console-Calculator-C/
-├── calculator.c
-└── README.md
+Console-Calculato-C It has calculator.c and README.md
