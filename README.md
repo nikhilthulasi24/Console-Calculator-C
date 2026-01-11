@@ -22,6 +22,5 @@ The program demonstrates the use of:
 
 ## 📂 Project Structure
 Console-Calculator-C/
-│
 ├── calculator.c
 └── README.md
